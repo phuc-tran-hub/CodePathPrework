@@ -4,8 +4,6 @@
 Built a working prototype app to learn about Swift!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src=https://imgur.com/a/KOpNHb8 width=200><br>
 
 ### Required User Stories
