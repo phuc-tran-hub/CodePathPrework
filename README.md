@@ -4,7 +4,7 @@
 Built a working prototype app to learn about Swift!
 
 ### App Walk-though
-![Imgur Image](https://i.imgur.com/HwR4pl2.mp4)
+![Imgur Gif](https://i.imgur.com/HwR4pl2.mp4)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
