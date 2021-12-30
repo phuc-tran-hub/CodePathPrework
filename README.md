@@ -4,7 +4,7 @@
 Built a working prototype app to learn about Swift!
 
 ### App Walk-though
-<img src="https://i.imgur.com/HwR4pl2.mp4"/>
+<a href="//imgur.com/a/KOpNHb8">Prework Gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
